@@ -1,0 +1,19 @@
+{
+  "name": "diveintojavascript",
+  "version": "1.0.0",
+  "description": "worlds greatest heroes and the worlds most vicious assassins project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlmogKaha/DiveIntoJavaScript.git"
+  },
+  "author": "AlmogK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlmogKaha/DiveIntoJavaScript/issues"
+  },
+  "homepage": "https://github.com/AlmogKaha/DiveIntoJavaScript#readme"
+}
